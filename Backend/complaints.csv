@@ -1,0 +1,751 @@
+Complaint_ID,Complaint,Fraud_Category,IT_Act_Section
+C0001,"I received a call from a person claiming to be an SBI bank executive. He asked me to share the OTP received on my phone for account verification. Within minutes, ₹25,000 was debited from my account without my permission.",OTP Fraud,Section 66D
+C0002,"A fake HDFC Bank representative contacted me and convinced me to disclose my debit card OTP. Soon after, unauthorized transactions were made from my account.",OTP Fraud,Section 66D
+C0003,"I received a phishing SMS asking me to update my KYC details through a fake banking website. After entering my credentials, money was transferred from my account.",KYC Update Scam,Section 66D
+C0004,"Someone pretending to be a Paytm customer support executive asked me to install a remote access app. After doing so, all the money in my wallet was transferred.",Fake Customer Care Scam,Section 66D
+C0005,"A fraudster sent me a QR code for receiving money, but after scanning it, ₹18,500 was deducted from my account.",QR Code Scam,Section 66D
+C0006,"An unknown hacker accessed my office computer and deleted confidential project documents without authorization.",Unauthorized Access / Hacking,Section 43
+C0007,"My laptop was infected with ransomware after opening an email attachment. All my important files were encrypted.",Unauthorized Access / Hacking,Section 43
+C0008,"Someone hacked into my office server and copied confidential client information.",Unauthorized Access / Hacking,Section 43
+C0009,"An attacker gained unauthorized access to my desktop computer and installed malicious software.",Unauthorized Access / Hacking,Section 43
+C0010,"Unknown persons remotely accessed my computer and modified important financial records without permission.",Unauthorized Access / Hacking,Section 43
+C0011,"A shopping website suffered a security breach that exposed my Aadhaar number and mobile number.",Data Breach / Failure to Protect Data,Section 43A
+C0012,"A hospital leaked patient records because its database was not properly secured.",Data Breach / Failure to Protect Data,Section 43A
+C0013,"My personal information was exposed after an educational institution's portal was hacked.",Data Breach / Failure to Protect Data,Section 43A
+C0014,"A finance company failed to protect customer KYC documents, resulting in a massive data leak.",Data Breach / Failure to Protect Data,Section 43A
+C0015,"My PAN and Aadhaar details became public because a company's database lacked adequate protection.",Data Breach / Failure to Protect Data,Section 43A
+C0016,"Someone stole my internet banking username and password through a fake login page.",Identity Theft,Section 66C
+C0017,"My Aadhaar details were used to obtain a SIM card without my knowledge.",Identity Theft,Section 66C
+C0018,"A fraudster used my PAN card details to open a financial account in my name.",Identity Theft,Section 66C
+C0019,"Someone misused my digital signature certificate to submit unauthorized documents.",Identity Theft,Section 66C
+C0020,"My online shopping account credentials were stolen and used for fraudulent purchases.",Identity Theft,Section 66C
+C0021,"Someone hacked my Gmail account and changed my password and recovery email.",Computer Related Offences,Section 66
+C0022,"My Facebook account was accessed without authorization and used to send fraudulent messages.",Computer Related Offences,Section 66
+C0023,"My Instagram account was hacked and offensive content was posted from it.",Computer Related Offences,Section 66
+C0024,"Unknown persons accessed my email account and deleted important business emails.",Computer Related Offences,Section 66
+C0025,"Someone illegally logged into my cloud storage account and downloaded confidential files.",Computer Related Offences,Section 66
+C0026,"A fake SBI loan officer collected a processing fee online and never processed the loan.",Fake Bank Call,Section 66D
+C0027,"I received a call from a fake RBI officer asking me to verify my account by sharing banking details.",Fake Bank Call,Section 66D
+C0028,"A fraudster impersonating an ICICI executive convinced me to transfer money for account verification.",Fake Bank Call,Section 66D
+C0029,"Someone pretending to be from Axis Bank tricked me into revealing my debit card PIN.",Fake Bank Call,Section 66D
+C0030,"A scammer claiming to be a bank manager requested an OTP and emptied my account.",Fake Bank Call,Section 66D
+C0031,"My private photographs stored on my phone were uploaded to social media without my consent.",Privacy Violation,Section 66E
+C0032,"Someone shared my personal videos online without my permission.",Privacy Violation,Section 66E
+C0033,"Hidden camera footage of me was uploaded to a public website without consent.",Privacy Violation,Section 66E
+C0034,"Private images saved on my cloud account were leaked publicly by an unknown person.",Privacy Violation,Section 66E
+C0035,"Someone circulated my confidential family photographs on messaging apps without permission.",Privacy Violation,Section 66E
+C0036,"A fake courier executive asked me to pay a delivery fee through a payment link, but the payment was fraudulent.",Fake Customer Care Scam,Section 66D
+C0037,"Someone pretending to be Amazon customer care convinced me to share an OTP for order cancellation.",Fake Customer Care Scam,Section 66D
+C0038,"A fake Flipkart support executive tricked me into revealing my banking credentials.",Fake Customer Care Scam,Section 66D
+C0039,"A fraudster claiming to be from Myntra customer support asked me to install a remote access app.",Fake Customer Care Scam,Section 66D
+C0040,"An online shopping support scam resulted in unauthorized transactions from my account.",Fake Customer Care Scam,Section 66D
+C0041,"A phishing email pretending to be from my bank redirected me to a fake login page.",Phishing Scam,Section 66D
+C0042,"I clicked on a fake banking link received through SMS and lost money after entering my credentials.",Phishing Scam,Section 66D
+C0043,"A fake income tax refund email stole my login credentials through a phishing website.",Phishing Scam,Section 66D
+C0044,"A malicious email pretending to be from my employer captured my office login credentials.",Phishing Scam,Section 66D
+C0045,"A fake credit card upgrade email redirected me to a fraudulent website that stole my personal information.",Phishing Scam,Section 66D
+C0046,"A scammer pretending to be my friend requested money through WhatsApp using a fake profile.",UPI Fraud,Section 66D
+C0047,"I received a fake Google Pay request and accidentally approved a payment instead of receiving money.",UPI Fraud,Section 66D
+C0048,"A fraudster used PhonePe to trick me into sending money through a fake collect request.",UPI Fraud,Section 66D
+C0049,"Someone posing as a buyer convinced me to scan a QR code, resulting in unauthorized UPI transactions.",UPI Fraud,Section 66D
+C0050,"A fake BHIM UPI support executive tricked me into revealing my UPI PIN, leading to financial loss.",UPI Fraud,Section 66D
+C0051,"A fraudster claiming to be from SBI Rewards asked me to verify reward points by sharing an OTP. After doing so, ₹12,000 was deducted from my account.",OTP Fraud,Section 66D
+C0052,"I received a phone call from a fake ICICI Bank officer requesting my OTP to unblock my account. Soon after, multiple unauthorized transactions occurred.",OTP Fraud,Section 66D
+C0053,"A scammer pretending to be from HDFC Bank asked me to verify my mobile number and share the OTP. My account balance was stolen.",OTP Fraud,Section 66D
+C0054,"A fake bank executive convinced me to share my debit card OTP for KYC verification. My savings account was emptied.",OTP Fraud,Section 66D
+C0055,"I was told my bank account would be blocked unless I verified an OTP. After sharing it, money was withdrawn without my consent.",OTP Fraud,Section 66D
+C0056,"An unknown person hacked into my office desktop and deleted financial reports stored on the system.",Unauthorized Access / Hacking,Section 43
+C0057,"Someone gained unauthorized access to my company's network and copied confidential client files.",Unauthorized Access / Hacking,Section 43
+C0058,"A hacker remotely installed malicious software on my computer and disabled antivirus protection.",Unauthorized Access / Hacking,Section 43
+C0059,"My office server was illegally accessed and important project documents were modified.",Unauthorized Access / Hacking,Section 43
+C0060,"An attacker exploited my computer system and deleted sensitive information without authorization.",Unauthorized Access / Hacking,Section 43
+C0061,"A hospital database breach exposed my personal health records because of poor security practices.",Data Breach / Failure to Protect Data,Section 43A
+C0062,"An online shopping company leaked my address, mobile number and payment details after a cyber attack.",Data Breach / Failure to Protect Data,Section 43A
+C0063,"My university portal exposed students' Aadhaar numbers due to inadequate cybersecurity.",Data Breach / Failure to Protect Data,Section 43A
+C0064,"A finance company's database leak revealed my PAN and bank account details.",Data Breach / Failure to Protect Data,Section 43A
+C0065,"Customer information was exposed after a company's cloud storage was left unsecured.",Data Breach / Failure to Protect Data,Section 43A
+C0066,"Someone stole my online banking credentials using a cloned banking website.",Identity Theft,Section 66C
+C0067,"My Aadhaar card details were misused to register a digital wallet without my permission.",Identity Theft,Section 66C
+C0068,"My PAN card was used to apply for an instant loan without my knowledge.",Identity Theft,Section 66C
+C0069,"An unknown person used my digital signature to submit unauthorized forms online.",Identity Theft,Section 66C
+C0070,"Someone created multiple fake accounts using my identity documents.",Identity Theft,Section 66C
+C0071,"My Outlook email account was hacked and confidential emails were downloaded.",Computer Related Offences,Section 66
+C0072,"Someone accessed my LinkedIn account without authorization and changed my profile information.",Computer Related Offences,Section 66
+C0073,"An attacker logged into my office email account using stolen credentials.",Computer Related Offences,Section 66
+C0074,"My Dropbox account was compromised and confidential files were copied.",Computer Related Offences,Section 66
+C0075,"Someone illegally accessed my Google Drive and deleted important documents.",Computer Related Offences,Section 66
+C0076,"A fake Axis Bank loan officer collected a processing fee but never approved the loan.",Fake Bank Call,Section 66D
+C0077,"Someone pretending to be a bank manager requested account verification and stole my banking details.",Fake Bank Call,Section 66D
+C0078,"A scammer posing as an RBI employee convinced me to transfer money for KYC verification.",Fake Bank Call,Section 66D
+C0079,"A fake Punjab National Bank representative tricked me into revealing my debit card PIN.",Fake Bank Call,Section 66D
+C0080,"A fraudster impersonating a bank officer convinced me to install a remote access application.",Fake Bank Call,Section 66D
+C0081,"Someone uploaded my personal vacation photographs to social media without my permission.",Privacy Violation,Section 66E
+C0082,"My confidential family videos were shared publicly without my consent.",Privacy Violation,Section 66E
+C0083,"A hidden camera recording of me was uploaded to the internet without my knowledge.",Privacy Violation,Section 66E
+C0084,"Someone shared my personal images in online groups without my consent.",Privacy Violation,Section 66E
+C0085,"Private photographs stored on my phone were copied and circulated online.",Privacy Violation,Section 66E
+C0086,"A fake courier company executive requested a payment to release my package but disappeared after receiving the money.",Fake Customer Care Scam,Section 66D
+C0087,"Someone pretending to be Flipkart support convinced me to install a screen-sharing application.",Fake Customer Care Scam,Section 66D
+C0088,"A fake Amazon refund executive collected my banking credentials over the phone.",Fake Customer Care Scam,Section 66D
+C0089,"An online shopping customer care scam resulted in unauthorized UPI transactions.",Fake Customer Care Scam,Section 66D
+C0090,"A fraudster pretending to be customer support convinced me to approve a payment request.",Fake Customer Care Scam,Section 66D
+C0091,"I clicked on a fake banking email asking me to update my account details, which resulted in credential theft.",Phishing Scam,Section 66D
+C0092,"A phishing SMS redirected me to a cloned banking website that captured my login credentials.",Phishing Scam,Section 66D
+C0093,"A fake credit card verification email stole my banking password.",Phishing Scam,Section 66D
+C0094,"An email pretending to be from my employer redirected me to a fake login portal.",Phishing Scam,Section 66D
+C0095,"A fake income tax refund portal collected my banking details and passwords.",Phishing Scam,Section 66D
+C0096,"A fake Google Pay collect request tricked me into approving a payment.",UPI Fraud,Section 66D
+C0097,"A fraudster posing as a buyer asked me to scan a QR code and my bank account was debited.",UPI Fraud,Section 66D
+C0098,"A PhonePe payment request was disguised as a refund but actually transferred money from my account.",UPI Fraud,Section 66D
+C0099,"A fake BHIM support executive convinced me to reveal my UPI PIN.",UPI Fraud,Section 66D
+C0100,"A scammer sent a fake payment link claiming to be from Paytm support and stole money from my wallet.",UPI Fraud,Section 66D
+C0101,"I received a phone call from someone claiming to be an SBI credit card officer who asked me to verify my card using an OTP. After sharing it, ₹18,000 was deducted from my account.",OTP Fraud,Section 66D
+C0102,"A fake HDFC executive convinced me to share an OTP to reactivate my net banking account. My account balance was transferred to another account.",OTP Fraud,Section 66D
+C0103,"A fraudster pretending to be from ICICI Bank requested an OTP for KYC verification and unauthorized transactions followed.",OTP Fraud,Section 66D
+C0104,"Someone claiming to be from Axis Bank support asked me to verify my account with an OTP and my savings were stolen.",OTP Fraud,Section 66D
+C0105,"I was informed that my debit card would be blocked unless I shared an OTP. Soon after, multiple transactions were made.",OTP Fraud,Section 66D
+C0106,"An unknown hacker accessed my desktop computer and permanently deleted important office presentations.",Unauthorized Access / Hacking,Section 43
+C0107,"Someone illegally entered my office network and copied confidential client agreements.",Unauthorized Access / Hacking,Section 43
+C0108,"My office server was infected with malware that destroyed important business records.",Unauthorized Access / Hacking,Section 43
+C0109,"A hacker gained access to my computer and disabled all security software before stealing data.",Unauthorized Access / Hacking,Section 43
+C0110,"Someone remotely accessed my laptop without permission and modified confidential files.",Unauthorized Access / Hacking,Section 43
+C0111,"A banking application exposed my personal details because customer records were stored without proper protection.",Data Breach / Failure to Protect Data,Section 43A
+C0112,"An insurance company's database leak revealed my Aadhaar number, PAN card and address.",Data Breach / Failure to Protect Data,Section 43A
+C0113,"A healthcare portal exposed sensitive patient records due to poor cybersecurity controls.",Data Breach / Failure to Protect Data,Section 43A
+C0114,"A company's employee database containing salary details and identity documents was leaked online.",Data Breach / Failure to Protect Data,Section 43A
+C0115,"An online learning platform failed to secure user records, exposing personal information.",Data Breach / Failure to Protect Data,Section 43A
+C0116,"Someone used my Aadhaar details to register an online payment account without my permission.",Identity Theft,Section 66C
+C0117,"My PAN card details were used to obtain a personal loan without my knowledge.",Identity Theft,Section 66C
+C0118,"A fraudster stole my online banking credentials through a fake website.",Identity Theft,Section 66C
+C0119,"Someone copied my digital signature certificate and used it for unauthorized transactions.",Identity Theft,Section 66C
+C0120,"My identity documents were used to create a fake online shopping account.",Identity Theft,Section 66C
+C0121,"My Yahoo Mail account was accessed by an unauthorized person who deleted important emails.",Computer Related Offences,Section 66
+C0122,"Someone hacked my Microsoft account and changed the registered recovery number.",Computer Related Offences,Section 66
+C0123,"An attacker accessed my office email account and downloaded confidential attachments.",Computer Related Offences,Section 66
+C0124,"Someone illegally logged into my cloud storage account and renamed important folders.",Computer Related Offences,Section 66
+C0125,"Unknown persons accessed my company portal using stolen login credentials.",Computer Related Offences,Section 66
+C0126,"A fake bank representative convinced me to transfer money as a loan processing fee and then became unreachable.",Fake Bank Call,Section 66D
+C0127,"A fraudster posing as an RBI officer requested account verification and collected my banking information.",Fake Bank Call,Section 66D
+C0128,"Someone pretending to be a Canara Bank executive tricked me into revealing my ATM PIN.",Fake Bank Call,Section 66D
+C0129,"I received a call from a fake bank manager asking for account verification details which were later misused.",Fake Bank Call,Section 66D
+C0130,"A scammer impersonating a bank employee convinced me to install a remote access application.",Fake Bank Call,Section 66D
+C0131,"Someone uploaded my personal travel photographs to a public website without my permission.",Privacy Violation,Section 66E
+C0132,"Private videos from my mobile phone were leaked online without my consent.",Privacy Violation,Section 66E
+C0133,"Someone shared my confidential family pictures across multiple messaging groups.",Privacy Violation,Section 66E
+C0134,"Hidden camera footage of me was uploaded to social media without my knowledge.",Privacy Violation,Section 66E
+C0135,"An unknown individual copied my personal images and created fake social media profiles.",Privacy Violation,Section 66E
+C0136,"A fake courier support executive requested a payment for customs clearance and disappeared after receiving it.",Fake Customer Care Scam,Section 66D
+C0137,"Someone pretending to be Meesho customer care asked me to install a screen-sharing app and stole money.",Fake Customer Care Scam,Section 66D
+C0138,"A fake Amazon executive requested my debit card details to process a refund.",Fake Customer Care Scam,Section 66D
+C0139,"A Flipkart support scam resulted in unauthorized transactions from my account.",Fake Customer Care Scam,Section 66D
+C0140,"A fake Myntra support representative asked me to approve a collect request and my money was transferred.",Fake Customer Care Scam,Section 66D
+C0141,"I received an email pretending to be from SBI asking me to verify my account through a fake website.",Phishing Scam,Section 66D
+C0142,"A phishing message claiming to be from RBI redirected me to a cloned banking portal.",Phishing Scam,Section 66D
+C0143,"A fake credit card verification email captured my banking username and password.",Phishing Scam,Section 66D
+C0144,"A phishing website disguised as my employer's login page stole my office credentials.",Phishing Scam,Section 66D
+C0145,"A fake government subsidy portal collected my banking information and passwords.",Phishing Scam,Section 66D
+C0146,"A fraudster posing as a buyer sent a fake Google Pay payment request that debited money from my account.",UPI Fraud,Section 66D
+C0147,"Someone sent a fake PhonePe collect request claiming to refund my payment but instead transferred money from my account.",UPI Fraud,Section 66D
+C0148,"A scammer tricked me into entering my UPI PIN while pretending to send money.",UPI Fraud,Section 66D
+C0149,"A fake Paytm support executive convinced me to share my UPI PIN, leading to unauthorized transactions.",UPI Fraud,Section 66D
+C0150,"A fraudster posing as an OLX buyer sent a fake QR code that resulted in money being deducted from my account.",UPI Fraud,Section 66D
+C0151,"I received a call from someone claiming to be a Kotak Mahindra Bank executive asking me to verify my account by sharing an OTP. Within minutes, ₹32,000 was debited from my account.",OTP Fraud,Section 66D
+C0152,"A fake Bank of Baroda representative requested an OTP to activate mobile banking. After sharing it, unauthorized transactions were made.",OTP Fraud,Section 66D
+C0153,"Someone pretending to be from Punjab National Bank convinced me to disclose an OTP for account verification, resulting in financial loss.",OTP Fraud,Section 66D
+C0154,"A fraudster called claiming that my credit card reward points would expire unless I verified them using an OTP. My account was emptied.",OTP Fraud,Section 66D
+C0155,"I received a fake KYC verification call requesting an OTP, after which my bank account was debited.",OTP Fraud,Section 66D
+C0156,"An attacker hacked my office desktop and deleted payroll records stored on the computer.",Unauthorized Access / Hacking,Section 43
+C0157,"Someone illegally entered my organization's network and copied confidential employee information.",Unauthorized Access / Hacking,Section 43
+C0158,"My office server was attacked with malware that corrupted accounting records.",Unauthorized Access / Hacking,Section 43
+C0159,"A hacker accessed my laptop remotely and installed spyware without my knowledge.",Unauthorized Access / Hacking,Section 43
+C0160,"Unknown persons accessed my workstation and modified confidential business documents.",Unauthorized Access / Hacking,Section 43
+C0161,"A retail company's poor cybersecurity exposed customer addresses and payment information.",Data Breach / Failure to Protect Data,Section 43A
+C0162,"An insurance provider leaked policyholder information because of weak database protection.",Data Breach / Failure to Protect Data,Section 43A
+C0163,"A telecom company's customer database containing Aadhaar numbers was exposed online.",Data Breach / Failure to Protect Data,Section 43A
+C0164,"A company's HR database leaked employee PAN numbers and salary records.",Data Breach / Failure to Protect Data,Section 43A
+C0165,"My personal information became public after an unsecured cloud database was compromised.",Data Breach / Failure to Protect Data,Section 43A
+C0166,"Someone used my Aadhaar details to create an unauthorized digital payment account.",Identity Theft,Section 66C
+C0167,"My PAN details were misused to register an online lending account.",Identity Theft,Section 66C
+C0168,"My online banking credentials were stolen using a fake mobile banking application.",Identity Theft,Section 66C
+C0169,"A fraudster copied my digital signature certificate to authorize fake documents.",Identity Theft,Section 66C
+C0170,"Unknown individuals created fake financial accounts using my identity documents.",Identity Theft,Section 66C
+C0171,"Someone accessed my office email account without authorization and downloaded confidential attachments.",Computer Related Offences,Section 66
+C0172,"My Google account was hacked and recovery details were changed.",Computer Related Offences,Section 66
+C0173,"An attacker logged into my company's CRM portal using stolen credentials.",Computer Related Offences,Section 66
+C0174,"My cloud storage account was accessed illegally and confidential reports were copied.",Computer Related Offences,Section 66
+C0175,"Someone gained unauthorized access to my company dashboard and modified customer records.",Computer Related Offences,Section 66
+C0176,"A fake SBI loan officer collected a processing fee through UPI and disappeared.",Fake Bank Call,Section 66D
+C0177,"A scammer impersonating an RBI official requested bank verification details and stole my savings.",Fake Bank Call,Section 66D
+C0178,"Someone claiming to be a Union Bank executive convinced me to reveal my debit card details.",Fake Bank Call,Section 66D
+C0179,"A fake bank employee requested remote access to my mobile phone and performed unauthorized transactions.",Fake Bank Call,Section 66D
+C0180,"I received a call from a fake banking executive who tricked me into transferring money for account verification.",Fake Bank Call,Section 66D
+C0181,"Someone uploaded my personal family photographs to multiple social media platforms without my consent.",Privacy Violation,Section 66E
+C0182,"Private videos stored on my laptop were copied and circulated online.",Privacy Violation,Section 66E
+C0183,"Hidden camera footage of me was uploaded to a public website without my permission.",Privacy Violation,Section 66E
+C0184,"Someone leaked confidential personal photographs from my cloud storage account.",Privacy Violation,Section 66E
+C0185,"A fake profile used my personal pictures without my permission, causing reputational harm.",Privacy Violation,Section 66E
+C0186,"A fraudster pretending to be Flipkart customer care collected my card details for a fake refund.",Fake Customer Care Scam,Section 66D
+C0187,"Someone posing as Amazon support asked me to install AnyDesk and stole money from my account.",Fake Customer Care Scam,Section 66D
+C0188,"A fake Myntra executive requested OTP verification for order cancellation and emptied my account.",Fake Customer Care Scam,Section 66D
+C0189,"A scammer claiming to be Meesho customer support convinced me to approve a collect request.",Fake Customer Care Scam,Section 66D
+C0190,"A fake courier support representative requested customs charges through UPI and disappeared.",Fake Customer Care Scam,Section 66D
+C0191,"A phishing SMS claiming to be from my bank redirected me to a cloned website that captured my login credentials.",Phishing Scam,Section 66D
+C0192,"I received a fake email from RBI asking me to verify my account through a fraudulent portal.",Phishing Scam,Section 66D
+C0193,"A fake credit card upgrade link collected my banking username and password.",Phishing Scam,Section 66D
+C0194,"An email pretending to be from my company's HR department redirected me to a fake login page.",Phishing Scam,Section 66D
+C0195,"A phishing website disguised as a government subsidy portal stole my personal and banking information.",Phishing Scam,Section 66D
+C0196,"A fraudster posing as an OLX buyer sent me a fake Google Pay collect request which deducted money.",UPI Fraud,Section 66D
+C0197,"Someone pretending to refund my payment through PhonePe tricked me into entering my UPI PIN.",UPI Fraud,Section 66D
+C0198,"A fake Paytm support executive asked me to approve a payment request instead of receiving money.",UPI Fraud,Section 66D
+C0199,"A scammer claiming to be from BHIM UPI convinced me to reveal my UPI PIN, resulting in financial loss.",UPI Fraud,Section 66D
+C0200,"A fake buyer on an online marketplace sent me a malicious QR code that debited ₹15,000 from my account after scanning.",QR Code Scam,Section 66D
+C0201,"I received a call from a fraudster claiming to be from SBI Rewards. He asked me to share an OTP to redeem reward points, but after sharing it, ₹22,000 was deducted from my account.",OTP Fraud,Section 66D
+C0202,"A fake ICICI Bank executive called saying my account would be suspended unless I verified an OTP. My account was emptied within minutes.",OTP Fraud,Section 66D
+C0203,"Someone pretending to be from HDFC Bank asked me to verify my debit card using an OTP, resulting in unauthorized transactions.",OTP Fraud,Section 66D
+C0204,"A scammer posing as a banking officer requested an OTP for account verification and transferred money from my account.",OTP Fraud,Section 66D
+C0205,"A fake customer support representative convinced me to reveal my OTP for KYC verification, leading to financial loss.",OTP Fraud,Section 66D
+C0206,"An unknown attacker hacked my office desktop and permanently deleted confidential financial records.",Unauthorized Access / Hacking,Section 43
+C0207,"Someone illegally accessed my company's server and copied customer invoices without authorization.",Unauthorized Access / Hacking,Section 43
+C0208,"A hacker installed ransomware on my office computer, making all files inaccessible.",Unauthorized Access / Hacking,Section 43
+C0209,"My office network was compromised, and confidential documents were modified by an unknown person.",Unauthorized Access / Hacking,Section 43
+C0210,"An attacker remotely logged into my laptop and stole important project files.",Unauthorized Access / Hacking,Section 43
+C0211,"A hospital's unsecured database exposed my medical records and Aadhaar details online.",Data Breach / Failure to Protect Data,Section 43A
+C0212,"A telecom provider leaked customer identity documents because of poor cybersecurity.",Data Breach / Failure to Protect Data,Section 43A
+C0213,"An online education platform exposed student records after its database was hacked.",Data Breach / Failure to Protect Data,Section 43A
+C0214,"A company's weak security measures resulted in customer PAN card details being leaked.",Data Breach / Failure to Protect Data,Section 43A
+C0215,"My personal information became publicly available because an organization's cloud storage was left unsecured.",Data Breach / Failure to Protect Data,Section 43A
+C0216,"Someone used my Aadhaar card details to register a new SIM card without my permission.",Identity Theft,Section 66C
+C0217,"My PAN card information was used to obtain a personal loan fraudulently.",Identity Theft,Section 66C
+C0218,"A fraudster created an online wallet using my identity documents.",Identity Theft,Section 66C
+C0219,"Someone copied my digital signature and submitted forged documents.",Identity Theft,Section 66C
+C0220,"Unknown persons misused my banking credentials to access my account.",Identity Theft,Section 66C
+C0221,"My Gmail account was hacked and confidential business emails were downloaded.",Computer Related Offences,Section 66
+C0222,"Someone gained unauthorized access to my Microsoft account and changed my password.",Computer Related Offences,Section 66
+C0223,"An attacker logged into my company's ERP portal using stolen credentials.",Computer Related Offences,Section 66
+C0224,"My cloud storage account was accessed without my permission and important files were deleted.",Computer Related Offences,Section 66
+C0225,"Unknown persons accessed my office dashboard and manipulated customer records.",Computer Related Offences,Section 66
+C0226,"A fake RBI officer convinced me to transfer money for account verification.",Fake Bank Call,Section 66D
+C0227,"Someone pretending to be a bank manager requested my ATM PIN and debit card details.",Fake Bank Call,Section 66D
+C0228,"A fraudster claiming to be from Bank of Baroda collected a fake loan processing fee.",Fake Bank Call,Section 66D
+C0229,"A fake Canara Bank executive asked me to install a remote access app and stole money from my account.",Fake Bank Call,Section 66D
+C0230,"I received a fake call from a bank employee who tricked me into transferring money to a 'safe account'.",Fake Bank Call,Section 66D
+C0231,"Someone uploaded my private vacation photographs to social media without my consent.",Privacy Violation,Section 66E
+C0232,"Personal videos stored on my mobile phone were leaked online by an unknown person.",Privacy Violation,Section 66E
+C0233,"A hidden camera recording of me was uploaded to a website without my permission.",Privacy Violation,Section 66E
+C0234,"Someone circulated my confidential family photographs through messaging applications.",Privacy Violation,Section 66E
+C0235,"My private images were copied from cloud storage and shared publicly.",Privacy Violation,Section 66E
+C0236,"A fake Flipkart customer care executive convinced me to install a remote access application before stealing money.",Fake Customer Care Scam,Section 66D
+C0237,"Someone pretending to be Amazon support requested my debit card details to process a refund.",Fake Customer Care Scam,Section 66D
+C0238,"A fake Myntra executive asked me to approve a collect request instead of receiving a refund.",Fake Customer Care Scam,Section 66D
+C0239,"A scammer claiming to be Meesho customer support tricked me into sharing my banking credentials.",Fake Customer Care Scam,Section 66D
+C0240,"A fake courier customer care executive collected customs charges and became unreachable.",Fake Customer Care Scam,Section 66D
+C0241,"I received a phishing email pretending to be from my bank asking me to verify my account details.",Phishing Scam,Section 66D
+C0242,"A fake RBI email redirected me to a cloned banking website that stole my credentials.",Phishing Scam,Section 66D
+C0243,"A fraudulent credit card verification link captured my banking username and password.",Phishing Scam,Section 66D
+C0244,"A phishing email pretending to be from my employer redirected me to a fake login page.",Phishing Scam,Section 66D
+C0245,"A fake government benefits website collected my banking details and passwords.",Phishing Scam,Section 66D
+C0246,"A fake Google Pay collect request tricked me into authorizing a payment.",UPI Fraud,Section 66D
+C0247,"Someone pretending to refund money through PhonePe asked me to enter my UPI PIN, resulting in financial loss.",UPI Fraud,Section 66D
+C0248,"A fake Paytm executive convinced me to approve a payment request instead of receiving money.",UPI Fraud,Section 66D
+C0249,"A fraudster claiming to be BHIM support asked me to verify my UPI PIN, leading to unauthorized transactions.",UPI Fraud,Section 66D
+C0250,"A fake buyer on an online marketplace sent me a malicious QR code that debited ₹18,000 from my account after scanning.",QR Code Scam,Section 66D
+C0251,"I received a call from a fake SBI executive asking me to verify my account by sharing an OTP. After sharing it, ₹45,000 was deducted from my savings account.",OTP Fraud,Section 66D
+C0252,"A fraudster pretending to be an ICICI Bank officer convinced me to disclose my OTP for debit card verification, resulting in unauthorized transactions.",OTP Fraud,Section 66D
+C0253,"Someone claiming to be from HDFC Bank requested an OTP to unblock my internet banking. My account balance was transferred.",OTP Fraud,Section 66D
+C0254,"I received a fake call about credit card reward redemption. The caller asked for my OTP and immediately withdrew money.",OTP Fraud,Section 66D
+C0255,"A fake bank employee requested OTP verification to update my mobile number. Soon after, multiple transactions occurred.",OTP Fraud,Section 66D
+C0256,"An attacker hacked my office desktop and deleted confidential legal documents stored on the system.",Unauthorized Access / Hacking,Section 43
+C0257,"Someone illegally accessed my office network and downloaded sensitive client contracts.",Unauthorized Access / Hacking,Section 43
+C0258,"My laptop was infected with ransomware that encrypted all project files.",Unauthorized Access / Hacking,Section 43
+C0259,"A hacker remotely accessed my workstation and modified financial spreadsheets.",Unauthorized Access / Hacking,Section 43
+C0260,"Unknown persons installed malicious software on my office server and disrupted operations.",Unauthorized Access / Hacking,Section 43
+C0261,"A healthcare company exposed patient identity information because its database lacked proper security.",Data Breach / Failure to Protect Data,Section 43A
+C0262,"An online retailer leaked customer payment information after hackers breached its database.",Data Breach / Failure to Protect Data,Section 43A
+C0263,"A school's student management portal exposed personal records due to weak cybersecurity.",Data Breach / Failure to Protect Data,Section 43A
+C0264,"A financial services company accidentally leaked customer Aadhaar and PAN details.",Data Breach / Failure to Protect Data,Section 43A
+C0265,"A company's unsecured cloud storage exposed confidential employee records.",Data Breach / Failure to Protect Data,Section 43A
+C0266,"Someone used my Aadhaar card to register an online wallet without my knowledge.",Identity Theft,Section 66C
+C0267,"My PAN details were used to apply for a business loan fraudulently.",Identity Theft,Section 66C
+C0268,"A fraudster stole my internet banking credentials through a fake banking app.",Identity Theft,Section 66C
+C0269,"My digital signature certificate was copied and used for unauthorized approvals.",Identity Theft,Section 66C
+C0270,"Someone created fake financial accounts using my personal identity documents.",Identity Theft,Section 66C
+C0271,"My office email account was hacked and confidential emails were forwarded to unknown recipients.",Computer Related Offences,Section 66
+C0272,"Someone accessed my Google account without permission and disabled two-factor authentication.",Computer Related Offences,Section 66
+C0273,"An attacker logged into my office ERP system using stolen employee credentials.",Computer Related Offences,Section 66
+C0274,"My Dropbox account was hacked and confidential reports were deleted.",Computer Related Offences,Section 66
+C0275,"Someone illegally accessed my business dashboard and altered customer information.",Computer Related Offences,Section 66
+C0276,"A fake Axis Bank executive convinced me to transfer money to activate my loan account.",Fake Bank Call,Section 66D
+C0277,"A scammer posing as an RBI officer asked for my ATM PIN and debit card details.",Fake Bank Call,Section 66D
+C0278,"Someone pretending to be a Bank of India manager collected a fake processing fee for a personal loan.",Fake Bank Call,Section 66D
+C0279,"A fake bank employee requested remote access to my mobile phone and performed unauthorized UPI transactions.",Fake Bank Call,Section 66D
+C0280,"A caller claiming to be from Punjab National Bank convinced me to transfer money to a secure account.",Fake Bank Call,Section 66D
+C0281,"My private family photographs were uploaded to an unknown website without my consent.",Privacy Violation,Section 66E
+C0282,"Someone leaked personal videos from my mobile phone on social media.",Privacy Violation,Section 66E
+C0283,"Hidden camera footage of me was uploaded online without my permission.",Privacy Violation,Section 66E
+C0284,"Private images stored in my cloud account were shared publicly by an unknown person.",Privacy Violation,Section 66E
+C0285,"A fake profile used my photographs without my consent, damaging my reputation.",Privacy Violation,Section 66E
+C0286,"A fraudster pretending to be Flipkart support convinced me to install AnyDesk before stealing money.",Fake Customer Care Scam,Section 66D
+C0287,"Someone claiming to be Amazon customer care collected my debit card details for a fake refund.",Fake Customer Care Scam,Section 66D
+C0288,"A fake Myntra executive asked me to approve a payment request instead of receiving a refund.",Fake Customer Care Scam,Section 66D
+C0289,"A scammer posing as Meesho customer support tricked me into revealing my internet banking password.",Fake Customer Care Scam,Section 66D
+C0290,"A fake courier support executive requested customs charges through UPI and disappeared.",Fake Customer Care Scam,Section 66D
+C0291,"A phishing email pretending to be from SBI redirected me to a cloned login page and captured my banking credentials.",Phishing Scam,Section 66D
+C0292,"A fake RBI email asked me to verify my KYC details on a fraudulent portal.",Phishing Scam,Section 66D
+C0293,"A phishing website disguised as my credit card provider stole my username and password.",Phishing Scam,Section 66D
+C0294,"A fake HR email redirected me to a fraudulent employee login portal.",Phishing Scam,Section 66D
+C0295,"A fake government subsidy website captured my personal and banking information.",Phishing Scam,Section 66D
+C0296,"A fake Google Pay collect request caused ₹12,000 to be transferred from my account.",UPI Fraud,Section 66D
+C0297,"Someone pretending to issue a refund through PhonePe tricked me into entering my UPI PIN.",UPI Fraud,Section 66D
+C0298,"A fake Paytm support representative asked me to approve a collect request instead of receiving money.",UPI Fraud,Section 66D
+C0299,"A scammer claiming to be from BHIM UPI collected my UPI PIN during fake verification.",UPI Fraud,Section 66D
+C0300,"A fake buyer on Facebook Marketplace sent a malicious QR code that debited ₹22,000 from my account after scanning.",QR Code Scam,Section 66D
+C0301,"A caller pretending to be from SBI informed me that my account would be blocked unless I verified an OTP. After sharing it, ₹18,000 was debited.",OTP Fraud,Section 66D
+C0302,"Someone claiming to be an ICICI Bank employee requested an OTP for debit card verification and unauthorized transactions followed.",OTP Fraud,Section 66D
+C0303,"A fake HDFC Bank executive called to activate my credit card and asked for an OTP. My account was later emptied.",OTP Fraud,Section 66D
+C0304,"A fraudster posing as Axis Bank customer support convinced me to disclose my OTP, resulting in financial loss.",OTP Fraud,Section 66D
+C0305,"I received a fake reward points redemption call asking for an OTP, after which money was withdrawn from my account.",OTP Fraud,Section 66D
+C0306,"An unknown hacker accessed my office server and deleted confidential project reports.",Unauthorized Access / Hacking,Section 43
+C0307,"Someone illegally entered my office network and copied customer information without authorization.",Unauthorized Access / Hacking,Section 43
+C0308,"A cybercriminal remotely accessed my laptop and installed spyware without my knowledge.",Unauthorized Access / Hacking,Section 43
+C0309,"My desktop computer was compromised by ransomware that encrypted important business files.",Unauthorized Access / Hacking,Section 43
+C0310,"An attacker gained unauthorized access to my company database and modified employee records.",Unauthorized Access / Hacking,Section 43
+C0311,"A hospital's database leak exposed my medical reports and Aadhaar details online.",Data Breach / Failure to Protect Data,Section 43A
+C0312,"A shopping website exposed customer addresses and payment details after a security breach.",Data Breach / Failure to Protect Data,Section 43A
+C0313,"An education portal leaked students' personal information due to poor cybersecurity.",Data Breach / Failure to Protect Data,Section 43A
+C0314,"My PAN number and bank account details were exposed because a company's cloud storage was unsecured.",Data Breach / Failure to Protect Data,Section 43A
+C0315,"A finance company's customer database was leaked, exposing confidential identity documents.",Data Breach / Failure to Protect Data,Section 43A
+C0316,"Someone used my Aadhaar card to obtain a SIM card without my permission.",Identity Theft,Section 66C
+C0317,"My PAN details were misused to apply for a personal loan online.",Identity Theft,Section 66C
+C0318,"A fraudster created an online payment account using my identity documents.",Identity Theft,Section 66C
+C0319,"My digital signature certificate was copied and used for unauthorized approvals.",Identity Theft,Section 66C
+C0320,"Someone stole my internet banking credentials using a fake banking application.",Identity Theft,Section 66C
+C0321,"My Gmail account was hacked and confidential emails were forwarded to unknown recipients.",Computer Related Offences,Section 66
+C0322,"Someone accessed my Microsoft account and changed all recovery options without permission.",Computer Related Offences,Section 66
+C0323,"My office ERP account was compromised using stolen login credentials.",Computer Related Offences,Section 66
+C0324,"An unknown user logged into my cloud storage account and deleted important files.",Computer Related Offences,Section 66
+C0325,"Someone illegally accessed my company dashboard and altered financial records.",Computer Related Offences,Section 66
+C0326,"A fake RBI officer convinced me to transfer money for account verification.",Fake Bank Call,Section 66D
+C0327,"Someone pretending to be from Punjab National Bank requested my ATM PIN and debit card details.",Fake Bank Call,Section 66D
+C0328,"A scammer posing as a Bank of India executive collected a fake loan processing fee.",Fake Bank Call,Section 66D
+C0329,"A fake Canara Bank representative asked me to install a remote access app and stole money from my account.",Fake Bank Call,Section 66D
+C0330,"A caller claiming to be from Union Bank persuaded me to transfer funds to a so-called secure account.",Fake Bank Call,Section 66D
+C0331,"My private family photographs were uploaded to social media without my consent.",Privacy Violation,Section 66E
+C0332,"Someone leaked personal videos stored on my phone to public messaging groups.",Privacy Violation,Section 66E
+C0333,"Hidden camera footage of me was uploaded to a website without my knowledge.",Privacy Violation,Section 66E
+C0334,"Private images stored in my cloud account were shared publicly without permission.",Privacy Violation,Section 66E
+C0335,"A fake social media account used my personal photographs without my consent.",Privacy Violation,Section 66E
+C0336,"A fraudster pretending to be Amazon customer support asked me to install AnyDesk before stealing money.",Fake Customer Care Scam,Section 66D
+C0337,"Someone claiming to be Flipkart support requested my card details to process a fake refund.",Fake Customer Care Scam,Section 66D
+C0338,"A fake Myntra customer care executive convinced me to approve a collect request.",Fake Customer Care Scam,Section 66D
+C0339,"A scammer posing as Meesho customer support tricked me into sharing my banking password.",Fake Customer Care Scam,Section 66D
+C0340,"A fake courier support representative collected customs charges through UPI and became unreachable.",Fake Customer Care Scam,Section 66D
+C0341,"I received a phishing email pretending to be from SBI asking me to verify my internet banking account.",Phishing Scam,Section 66D
+C0342,"A fake RBI email redirected me to a cloned banking website that captured my credentials.",Phishing Scam,Section 66D
+C0343,"A phishing link disguised as a credit card upgrade portal stole my login details.",Phishing Scam,Section 66D
+C0344,"An email pretending to be from my company's HR department redirected me to a fake employee portal.",Phishing Scam,Section 66D
+C0345,"A fake government subsidy website collected my banking username and password.",Phishing Scam,Section 66D
+C0346,"A fake Google Pay collect request tricked me into approving a payment of ₹15,000.",UPI Fraud,Section 66D
+C0347,"Someone pretending to issue a PhonePe refund asked me to enter my UPI PIN, resulting in financial loss.",UPI Fraud,Section 66D
+C0348,"A fake Paytm executive convinced me to approve a payment request instead of receiving money.",UPI Fraud,Section 66D
+C0349,"A scammer claiming to be BHIM customer support collected my UPI PIN during fake verification.",UPI Fraud,Section 66D
+C0350,"A fake buyer sent me a malicious QR code that deducted ₹27,500 from my account after I scanned it.",QR Code Scam,Section 66D
+C0351,"A caller claiming to be from SBI requested my OTP to stop suspicious transactions, but after sharing it ₹19,500 was deducted.",OTP Fraud,Section 66D
+C0352,"Someone pretending to be an HDFC relationship manager convinced me to share my OTP for KYC verification.",OTP Fraud,Section 66D
+C0353,"A fraudster posing as an ICICI executive requested an OTP to activate mobile banking and withdrew money.",OTP Fraud,Section 66D
+C0354,"I received a fake debit card verification call asking for an OTP. Soon after, unauthorized transactions took place.",OTP Fraud,Section 66D
+C0355,"A scammer claimed my account would be frozen unless I verified an OTP, resulting in financial loss.",OTP Fraud,Section 66D
+C0356,"Someone hacked my office workstation and erased confidential customer invoices.",Unauthorized Access / Hacking,Section 43
+C0357,"A cybercriminal accessed my company's internal server and downloaded payroll information.",Unauthorized Access / Hacking,Section 43
+C0358,"Unknown attackers remotely accessed my desktop computer and disabled the antivirus software.",Unauthorized Access / Hacking,Section 43
+C0359,"My business laptop was compromised with malware that corrupted financial records.",Unauthorized Access / Hacking,Section 43
+C0360,"Hackers gained unauthorized access to our office network and copied sensitive documents.",Unauthorized Access / Hacking,Section 43
+C0361,"A courier company's database breach exposed my address, Aadhaar number and phone number.",Data Breach / Failure to Protect Data,Section 43A
+C0362,"A healthcare application leaked patient records because of poor security practices.",Data Breach / Failure to Protect Data,Section 43A
+C0363,"A university portal exposed student identity documents after a cyberattack.",Data Breach / Failure to Protect Data,Section 43A
+C0364,"An online payment company's weak security exposed customer bank account details.",Data Breach / Failure to Protect Data,Section 43A
+C0365,"A travel booking website leaked passport and identity information due to an unsecured database.",Data Breach / Failure to Protect Data,Section 43A
+C0366,"Someone used my Aadhaar details to create an online lending account without my consent.",Identity Theft,Section 66C
+C0367,"My PAN number was misused to open a digital payment wallet.",Identity Theft,Section 66C
+C0368,"A fraudster used my voter ID and Aadhaar to obtain financial services in my name.",Identity Theft,Section 66C
+C0369,"Someone copied my digital signature certificate and approved unauthorized transactions.",Identity Theft,Section 66C
+C0370,"My banking credentials were stolen and used to access my internet banking account.",Identity Theft,Section 66C
+C0371,"An unknown person hacked my Outlook account and deleted confidential business emails.",Computer Related Offences,Section 66
+C0372,"Someone accessed my company CRM portal using stolen login credentials.",Computer Related Offences,Section 66
+C0373,"Hackers compromised my Google Drive account and downloaded confidential reports.",Computer Related Offences,Section 66
+C0374,"My cloud storage account was accessed without permission and important folders were deleted.",Computer Related Offences,Section 66
+C0375,"Someone illegally logged into my employee dashboard and modified attendance records.",Computer Related Offences,Section 66
+C0376,"A fake SBI loan executive collected a processing fee through UPI and disappeared.",Fake Bank Call,Section 66D
+C0377,"Someone pretending to be from RBI asked me to verify my account by transferring money.",Fake Bank Call,Section 66D
+C0378,"A fake Bank of Baroda executive requested my debit card details over a phone call.",Fake Bank Call,Section 66D
+C0379,"A caller claiming to be from Canara Bank persuaded me to install a remote access application.",Fake Bank Call,Section 66D
+C0380,"A scammer impersonating a bank officer requested account verification and emptied my savings account.",Fake Bank Call,Section 66D
+C0381,"Someone uploaded my private family photographs to an online forum without permission.",Privacy Violation,Section 66E
+C0382,"My confidential videos were copied from my mobile phone and shared publicly.",Privacy Violation,Section 66E
+C0383,"An unknown person circulated my personal images on social media without my consent.",Privacy Violation,Section 66E
+C0384,"Private pictures stored in my Google Photos account were leaked online.",Privacy Violation,Section 66E
+C0385,"A fake profile used my photographs to harass me on social networking websites.",Privacy Violation,Section 66E
+C0386,"A fraudster pretending to be Amazon customer support convinced me to install TeamViewer and stole money.",Fake Customer Care Scam,Section 66D
+C0387,"Someone posing as Flipkart customer care asked for my OTP to process a fake refund.",Fake Customer Care Scam,Section 66D
+C0388,"A fake Myntra support executive requested my internet banking password for order cancellation.",Fake Customer Care Scam,Section 66D
+C0389,"A scammer claiming to be Meesho support collected my debit card details for a fake refund.",Fake Customer Care Scam,Section 66D
+C0390,"A fake courier executive requested customs charges through a payment link and disappeared.",Fake Customer Care Scam,Section 66D
+C0391,"I received a phishing email pretending to be from Axis Bank asking me to verify my account.",Phishing Scam,Section 66D
+C0392,"A fake KYC update SMS redirected me to a cloned banking website.",Phishing Scam,Section 66D
+C0393,"A phishing website impersonating my bank captured my internet banking credentials.",Phishing Scam,Section 66D
+C0394,"An email pretending to be from my employer asked me to log into a fake employee portal.",Phishing Scam,Section 66D
+C0395,"A fake electricity bill payment link stole my banking username and password.",Phishing Scam,Section 66D
+C0396,"A fraudster posing as a buyer sent a fake Google Pay collect request and deducted ₹14,000.",UPI Fraud,Section 66D
+C0397,"Someone pretending to refund my payment through PhonePe convinced me to enter my UPI PIN.",UPI Fraud,Section 66D
+C0398,"A fake Paytm merchant requested approval for a collect request and transferred money from my account.",UPI Fraud,Section 66D
+C0399,"A scammer claiming to be BHIM support asked me to verify my UPI PIN during a fake security check.",UPI Fraud,Section 66D
+C0400,"A fake OLX buyer sent a QR code claiming it was required to receive payment, but after scanning it ₹21,000 was deducted from my account.",QR Code Scam,Section 66D
+C0401,"While selling an old sofa online, the buyer insisted that I scan a QR code to receive payment. Instead of receiving money, my account was debited by ₹18,500.",QR Code Scam,Section 66D
+C0402,"I received an email saying my income tax refund had been approved. The attached link redirected me to a fake portal where my banking credentials were stolen.",Phishing Scam,Section 66D
+C0403,"An unknown person logged into my office server during the night and copied confidential project files without authorization.",Unauthorized Access / Hacking,Section 43
+C0404,"A finance application informed users about a cyberattack after my PAN number and Aadhaar details had already been leaked online.",Data Breach / Failure to Protect Data,Section 43A
+C0405,"Someone opened a loan account using my Aadhaar card and PAN details without my knowledge.",Identity Theft,Section 66C
+C0406,"My WhatsApp account was taken over after I shared the verification code with a person pretending to be my friend.",Computer Related Offences,Section 66
+C0407,"A fake courier delivery message claimed my parcel was on hold and requested a payment through a suspicious link. The transaction was fraudulent.",Fake Customer Care Scam,Section 66D
+C0408,"While updating my bank KYC through a website received in an SMS, I unknowingly submitted my internet banking credentials.",KYC Update Scam,Section 66D
+C0409,"Private photographs stored on my cloud account were downloaded and circulated without my permission.",Privacy Violation,Section 66E
+C0410,"A fraudster claiming to be a cybercrime officer frightened me into transferring money to a so-called verification account.",Fake Bank Call,Section 66D
+C0411,"After downloading a cracked software package, my laptop became inaccessible because all documents were encrypted.",Unauthorized Access / Hacking,Section 43
+C0412,"A food delivery application accidentally exposed my saved addresses, contact details and payment history.",Data Breach / Failure to Protect Data,Section 43A
+C0413,"Someone used my voter ID and Aadhaar to create a fake bank account.",Identity Theft,Section 66C
+C0414,"Hackers gained access to my company's email server and deleted important communication records.",Computer Related Offences,Section 66
+C0415,"I searched for my bank's website on Google but clicked a fake advertisement that stole my login credentials.",Phishing Scam,Section 66D
+C0416,"The caller said my debit card reward points would expire today and requested an OTP to redeem them.",OTP Fraud,Section 66D
+C0417,"An online shopping refund was promised only after I approved a collect request on my UPI application.",UPI Fraud,Section 66D
+C0418,"My personal photographs were uploaded to a fake social media profile without my consent.",Privacy Violation,Section 66E
+C0419,"A caller pretending to be from RBI informed me that my account would be frozen unless I completed verification immediately.",Fake Bank Call,Section 66D
+C0420,"Someone pretending to be customer support convinced me to install a remote access application and controlled my phone.",Fake Customer Care Scam,Section 66D
+C0421,"I received a fake electricity bill message asking me to pay immediately through an unknown website, where my banking information was captured.",Phishing Scam,Section 66D
+C0422,"A cybercriminal remotely connected to my desktop computer and installed malware that copied confidential files.",Unauthorized Access / Hacking,Section 43
+C0423,"My employer informed employees that payroll records had been leaked because of inadequate database security.",Data Breach / Failure to Protect Data,Section 43A
+C0424,"A fraudster obtained a duplicate SIM card using my identity documents.",Identity Theft,Section 66C
+C0425,"My Google Drive account was accessed without authorization and important reports were deleted.",Computer Related Offences,Section 66
+C0426,"A scammer pretending to be a bank executive requested an OTP to reverse an accidental transaction.",OTP Fraud,Section 66D
+C0427,"I received a fake PhonePe collect request disguised as a cashback offer.",UPI Fraud,Section 66D
+C0428,"Someone copied private family videos from my laptop and uploaded them to a public website.",Privacy Violation,Section 66E
+C0429,"A fake SBI employee asked me to move my money to a secure account because of suspicious activity.",Fake Bank Call,Section 66D
+C0430,"The fake Amazon support executive insisted on installing AnyDesk to process a refund.",Fake Customer Care Scam,Section 66D
+C0431,"A cloned banking website looked identical to the original and captured my username and password.",Phishing Scam,Section 66D
+C0432,"Hackers exploited a vulnerability in my office network and modified confidential business records.",Unauthorized Access / Hacking,Section 43
+C0433,"A travel booking portal accidentally exposed passport numbers and identity documents of customers.",Data Breach / Failure to Protect Data,Section 43A
+C0434,"Someone registered an online wallet using my PAN details.",Identity Theft,Section 66C
+C0435,"An unknown person accessed my Microsoft account and changed my recovery email address.",Computer Related Offences,Section 66
+C0436,"A fraudster convinced me to share the OTP received during a fake loan verification process.",OTP Fraud,Section 66D
+C0437,"While receiving payment for furniture, I entered my UPI PIN after scanning a fake payment request.",UPI Fraud,Section 66D
+C0438,"Private wedding photographs were downloaded from my cloud storage and shared publicly.",Privacy Violation,Section 66E
+C0439,"Someone claiming to be from my bank requested debit card details over the phone for security verification.",Fake Bank Call,Section 66D
+C0440,"A fake Flipkart representative called regarding order cancellation and collected my card information.",Fake Customer Care Scam,Section 66D
+C0441,"An SMS claiming to be from the telecom operator redirected me to a fraudulent login page.",Phishing Scam,Section 66D
+C0442,"My office workstation was infected through a malicious USB drive and confidential files were copied.",Unauthorized Access / Hacking,Section 43
+C0443,"An online education platform leaked students' identity records after a database breach.",Data Breach / Failure to Protect Data,Section 43A
+C0444,"Someone misused my Aadhaar details to obtain a prepaid SIM connection.",Identity Theft,Section 66C
+C0445,"Hackers accessed my Dropbox account and removed important legal documents.",Computer Related Offences,Section 66
+C0446,"The fraudster claimed to verify my account before increasing my transaction limit and requested an OTP.",OTP Fraud,Section 66D
+C0447,"A fake cashback notification persuaded me to approve a UPI collect request.",UPI Fraud,Section 66D
+C0448,"An unknown person shared my personal images through multiple messaging groups without permission.",Privacy Violation,Section 66E
+C0449,"A caller claiming to be from the bank's fraud department convinced me to reveal confidential banking details.",Fake Bank Call,Section 66D
+C0450,"Someone pretending to be customer support for an e-commerce website asked me to verify my refund using a payment link, resulting in financial loss.",Fake Customer Care Scam,Section 66D
+C0451,"A fake LIC maturity message asked me to verify my bank details through a link, after which money disappeared from my account.",Phishing Scam,Section 66D
+C0452,"Someone posing as a bank fraud investigator convinced me to transfer money into a 'safe account' for verification.",Fake Bank Call,Section 66D
+C0453,"Hackers exploited a vulnerability in our company's HR portal and downloaded employee salary records.",Unauthorized Access / Hacking,Section 43
+C0454,"My insurance provider informed me that customer records containing Aadhaar and PAN details had been leaked.",Data Breach / Failure to Protect Data,Section 43A
+C0455,"An unknown person obtained a credit card using my PAN card information.",Identity Theft,Section 66C
+C0456,"Someone accessed my office email account and sent fraudulent invoices to our clients.",Computer Related Offences,Section 66
+C0457,"A fake courier company asked me to pay a small customs fee through UPI before delivering my parcel.",Fake Customer Care Scam,Section 66D
+C0458,"I received an SMS asking me to update my bank KYC before midnight or my account would be blocked.",KYC Update Scam,Section 66D
+C0459,"Private pictures from my phone backup were uploaded to social media without my permission.",Privacy Violation,Section 66E
+C0460,"A caller claiming to be from the cybercrime department requested my banking details for investigation purposes.",Fake Bank Call,Section 66D
+C0461,"My office database server was infected with malware that corrupted customer information.",Unauthorized Access / Hacking,Section 43
+C0462,"A shopping application accidentally exposed saved debit card information of thousands of users.",Data Breach / Failure to Protect Data,Section 43A
+C0463,"Someone registered a GST account using my identity documents.",Identity Theft,Section 66C
+C0464,"Hackers logged into my cloud storage account using stolen credentials and downloaded confidential files.",Computer Related Offences,Section 66
+C0465,"A fake electricity board website collected my internet banking username and password.",Phishing Scam,Section 66D
+C0466,"The caller claimed my ATM card had expired and requested the OTP received on my mobile phone.",OTP Fraud,Section 66D
+C0467,"While receiving payment for my old bicycle, I unknowingly approved a UPI collect request.",UPI Fraud,Section 66D
+C0468,"Someone shared my confidential office photographs on social media without permission.",Privacy Violation,Section 66E
+C0469,"A fake SBI manager said suspicious transactions were detected and requested my debit card details.",Fake Bank Call,Section 66D
+C0470,"A scammer pretending to be Flipkart customer support asked me to install AnyDesk for refund processing.",Fake Customer Care Scam,Section 66D
+C0471,"I clicked a fake banking advertisement displayed in search results and entered my login credentials.",Phishing Scam,Section 66D
+C0472,"A hacker gained administrator access to my office computer and deleted several project folders.",Unauthorized Access / Hacking,Section 43
+C0473,"My university notified students that identity documents had been exposed after a cyberattack.",Data Breach / Failure to Protect Data,Section 43A
+C0474,"Someone used my Aadhaar card to create an online wallet account.",Identity Theft,Section 66C
+C0475,"My Microsoft Teams account was compromised and confidential meeting files were stolen.",Computer Related Offences,Section 66
+C0476,"The fraudster convinced me to reveal an OTP by claiming it was required to cancel an unauthorized payment.",OTP Fraud,Section 66D
+C0477,"A fake cashback notification redirected me to approve a fraudulent Google Pay collect request.",UPI Fraud,Section 66D
+C0478,"My personal vacation photographs stored in cloud storage were publicly shared.",Privacy Violation,Section 66E
+C0479,"A fraudster claiming to be a relationship manager collected my banking credentials over a phone call.",Fake Bank Call,Section 66D
+C0480,"A fake Myntra executive asked for my debit card details to process a refund for a cancelled order.",Fake Customer Care Scam,Section 66D
+C0481,"An SMS regarding an unpaid electricity bill redirected me to a fake payment portal.",Phishing Scam,Section 66D
+C0482,"Someone remotely accessed my office laptop after I opened an infected email attachment.",Unauthorized Access / Hacking,Section 43
+C0483,"A cloud storage service accidentally exposed confidential employee documents.",Data Breach / Failure to Protect Data,Section 43A
+C0484,"A fraudster used my driving licence and Aadhaar details to apply for a digital loan.",Identity Theft,Section 66C
+C0485,"Hackers logged into my CRM software and modified customer contact information.",Computer Related Offences,Section 66
+C0486,"I received a fake credit card verification call requesting the OTP sent to my mobile phone.",OTP Fraud,Section 66D
+C0487,"A buyer on Facebook Marketplace asked me to accept payment by entering my UPI PIN.",UPI Fraud,Section 66D
+C0488,"Someone uploaded my personal family videos to an online platform without consent.",Privacy Violation,Section 66E
+C0489,"A caller claiming to be from RBI warned me about suspicious activity and convinced me to transfer funds.",Fake Bank Call,Section 66D
+C0490,"A fake Amazon delivery executive collected a processing fee through a fraudulent payment link.",Fake Customer Care Scam,Section 66D
+C0491,"An email claiming to be from my bank requested immediate password verification through a cloned website.",Phishing Scam,Section 66D
+C0492,"Hackers bypassed security controls and accessed confidential legal files stored on our office server.",Unauthorized Access / Hacking,Section 43
+C0493,"A payment gateway company informed users that customer data had been exposed because of weak security.",Data Breach / Failure to Protect Data,Section 43A
+C0494,"Someone opened a digital investment account using my Aadhaar and PAN details.",Identity Theft,Section 66C
+C0495,"My office VPN account was accessed from an unknown location and confidential data was downloaded.",Computer Related Offences,Section 66
+C0496,"The fraudster claimed my account would be blocked unless I verified an OTP immediately.",OTP Fraud,Section 66D
+C0497,"A fake PhonePe customer care representative convinced me to approve a payment request instead of receiving money.",UPI Fraud,Section 66D
+C0498,"My confidential photographs were downloaded from cloud storage and distributed through messaging apps.",Privacy Violation,Section 66E
+C0499,"A caller pretending to be from my bank collected my debit card details by claiming a mandatory security update.",Fake Bank Call,Section 66D
+C0500,"Someone posing as customer support for an online shopping website tricked me into making a payment while promising a refund.",Fake Customer Care Scam,Section 66D
+C0501,"I received a phone call from someone claiming to be an SBI fraud prevention officer who asked me to verify an OTP. Minutes later, ₹32,000 was withdrawn from my account.",OTP Fraud,Section 66D
+C0502,"A scammer pretending to be from HDFC Bank convinced me that my debit card would be blocked unless I shared the OTP sent to my phone.",OTP Fraud,Section 66D
+C0503,"While applying for a personal loan online, I was asked to verify an OTP by a fake executive, after which unauthorized transactions occurred.",OTP Fraud,Section 66D
+C0504,"A caller informed me that my bank account required immediate verification and requested the OTP I had just received.",OTP Fraud,Section 66D
+C0505,"Someone posing as a credit card support executive requested an OTP to cancel a transaction, but instead transferred money from my account.",OTP Fraud,Section 66D
+C0506,"Hackers broke into our office file server and deleted several confidential legal agreements.",Unauthorized Access / Hacking,Section 43
+C0507,"An attacker gained unauthorized access to my company's payroll system and downloaded employee salary details.",Unauthorized Access / Hacking,Section 43
+C0508,"A malicious program installed on my laptop allowed someone to remotely access my personal files.",Unauthorized Access / Hacking,Section 43
+C0509,"Cybercriminals exploited a security flaw in our office network and modified financial records.",Unauthorized Access / Hacking,Section 43
+C0510,"My workstation was infected with ransomware that encrypted years of business documents.",Unauthorized Access / Hacking,Section 43
+C0511,"A hospital informed patients that hackers had leaked confidential medical records due to weak database security.",Data Breach / Failure to Protect Data,Section 43A
+C0512,"An online retailer accidentally exposed customer payment information because of a cloud storage misconfiguration.",Data Breach / Failure to Protect Data,Section 43A
+C0513,"A university portal suffered a cyberattack that leaked student identity documents.",Data Breach / Failure to Protect Data,Section 43A
+C0514,"My personal information became public after an insurance company's customer database was compromised.",Data Breach / Failure to Protect Data,Section 43A
+C0515,"A payment gateway admitted that hackers had accessed customer addresses and bank account details.",Data Breach / Failure to Protect Data,Section 43A
+C0516,"Someone used my Aadhaar number to obtain a new SIM card without my knowledge.",Identity Theft,Section 66C
+C0517,"A fraudster misused my PAN details to register a digital lending account.",Identity Theft,Section 66C
+C0518,"I discovered that a fake investment account had been opened using my identity documents.",Identity Theft,Section 66C
+C0519,"My digital signature was copied and used to authorize financial transactions that I never approved.",Identity Theft,Section 66C
+C0520,"Unknown persons used my personal documents to complete online KYC verification for another account.",Identity Theft,Section 66C
+C0521,"Someone logged into my office email account from another country and downloaded confidential attachments.",Computer Related Offences,Section 66
+C0522,"Hackers gained access to my cloud storage account and permanently deleted important project files.",Computer Related Offences,Section 66
+C0523,"An unauthorized user changed the administrator password of our company's internal portal.",Computer Related Offences,Section 66
+C0524,"My Google account was compromised, and all recovery details were changed without permission.",Computer Related Offences,Section 66
+C0525,"Someone accessed my company's customer management software and modified client information.",Computer Related Offences,Section 66
+C0526,"A caller claiming to represent RBI instructed me to transfer money into a secure account for verification purposes.",Fake Bank Call,Section 66D
+C0527,"A fake bank officer claimed my account had suspicious activity and collected my debit card details.",Fake Bank Call,Section 66D
+C0528,"Someone pretending to be from Punjab National Bank requested my internet banking password during a phone call.",Fake Bank Call,Section 66D
+C0529,"A fraudster impersonated a bank relationship manager and convinced me to install a remote access application.",Fake Bank Call,Section 66D
+C0530,"I was told that my bank account would be frozen unless I completed verification through a phone call.",Fake Bank Call,Section 66D
+C0531,"My personal photographs stored on my mobile phone were uploaded to social media without my permission.",Privacy Violation,Section 66E
+C0532,"Someone secretly copied my private videos and circulated them among multiple messaging groups.",Privacy Violation,Section 66E
+C0533,"Private images saved in my online storage account were leaked without my knowledge.",Privacy Violation,Section 66E
+C0534,"A fake social media profile used my photographs to impersonate me and damage my reputation.",Privacy Violation,Section 66E
+C0535,"Hidden camera footage of me was uploaded online without my consent.",Privacy Violation,Section 66E
+C0536,"A scammer posing as Amazon customer care convinced me to install remote desktop software before stealing money.",Fake Customer Care Scam,Section 66D
+C0537,"Someone pretending to be Flipkart support collected my debit card information for a fake refund process.",Fake Customer Care Scam,Section 66D
+C0538,"A fake customer care executive asked me to approve a payment request instead of receiving my refund.",Fake Customer Care Scam,Section 66D
+C0539,"A fraudster claiming to represent an online shopping company requested my internet banking credentials.",Fake Customer Care Scam,Section 66D
+C0540,"I received a fake delivery confirmation call asking me to pay a processing fee through a suspicious payment link.",Fake Customer Care Scam,Section 66D
+C0541,"A phishing email pretending to be from my bank redirected me to a cloned login page where I entered my credentials.",Phishing Scam,Section 66D
+C0542,"A fake KYC update message directed me to a fraudulent banking website.",Phishing Scam,Section 66D
+C0543,"An email claiming to be from the Income Tax Department asked me to verify my bank details on a fake portal.",Phishing Scam,Section 66D
+C0544,"A fake electricity bill reminder redirected me to a phishing website that captured my login details.",Phishing Scam,Section 66D
+C0545,"I received a message claiming my mobile wallet would be suspended unless I verified my account through a fraudulent website.",Phishing Scam,Section 66D
+C0546,"Someone sent me a Google Pay collect request claiming it was required to receive a payment for furniture I sold online.",UPI Fraud,Section 66D
+C0547,"A fake PhonePe cashback notification tricked me into approving a payment request.",UPI Fraud,Section 66D
+C0548,"A scammer pretending to issue a refund through Paytm convinced me to enter my UPI PIN.",UPI Fraud,Section 66D
+C0549,"While selling my laptop online, the buyer sent me a fake payment request that debited money from my account.",UPI Fraud,Section 66D
+C0550,"A fraudster shared a QR code claiming it was needed to receive money, but scanning it resulted in ₹24,000 being deducted from my account.",QR Code Scam,Section 66D
+C0551,"I received a WhatsApp message claiming my bank account would be suspended unless I completed verification through the provided link. After entering my details, unauthorized transactions occurred.",Phishing Scam,Section 66D
+C0552,"A caller pretending to be from ICICI Bank informed me that my mobile banking needed activation and requested the OTP sent to my phone.",OTP Fraud,Section 66D
+C0553,"Someone remotely connected to my office computer after I unknowingly installed fake software from an email attachment.",Unauthorized Access / Hacking,Section 43
+C0554,"A cloud service provider informed us that hackers had copied customer records because of a security vulnerability.",Data Breach / Failure to Protect Data,Section 43A
+C0555,"I found that a vehicle loan had been approved using my Aadhaar and PAN details without my knowledge.",Identity Theft,Section 66C
+C0556,"My official email account was hacked and fake payment requests were sent to clients from my email address.",Computer Related Offences,Section 66
+C0557,"A fake Flipkart delivery executive asked me to pay a small delivery confirmation charge through UPI.",Fake Customer Care Scam,Section 66D
+C0558,"I received a message claiming my KYC had expired and my account would be frozen unless updated immediately.",KYC Update Scam,Section 66D
+C0559,"Someone copied my personal photos from cloud storage and used them to create fake social media accounts.",Privacy Violation,Section 66E
+C0560,"A fraudster claiming to be a senior bank manager asked me to move my funds to a secure account for safety.",Fake Bank Call,Section 66D
+C0561,"An attacker exploited our office firewall and gained access to confidential employee records.",Unauthorized Access / Hacking,Section 43
+C0562,"A hospital's online portal exposed thousands of patients' personal records after a cyberattack.",Data Breach / Failure to Protect Data,Section 43A
+C0563,"Someone used my identity documents to open a digital savings account in another city.",Identity Theft,Section 66C
+C0564,"Hackers accessed my Dropbox account and deleted project reports that were shared with my team.",Computer Related Offences,Section 66
+C0565,"A fake bank website appeared in search results and collected my login credentials.",Phishing Scam,Section 66D
+C0566,"The caller claimed that my ATM card was blocked and requested the OTP to reactivate it.",OTP Fraud,Section 66D
+C0567,"While selling my mobile phone online, I accepted a fake UPI collect request believing it was payment from the buyer.",UPI Fraud,Section 66D
+C0568,"Private family videos stored on my laptop were uploaded to the internet without my permission.",Privacy Violation,Section 66E
+C0569,"A fake bank verification call convinced me to disclose my debit card details and CVV number.",Fake Bank Call,Section 66D
+C0570,"A person claiming to represent Amazon support requested my banking details to process a refund.",Fake Customer Care Scam,Section 66D
+C0571,"A fake telecom recharge portal collected my debit card details after promising cashback.",Phishing Scam,Section 66D
+C0572,"Cybercriminals installed spyware on my office computer and monitored confidential company activities.",Unauthorized Access / Hacking,Section 43
+C0573,"An online education platform suffered a breach that exposed student Aadhaar and phone numbers.",Data Breach / Failure to Protect Data,Section 43A
+C0574,"Someone created a fake investment account using copies of my PAN card and Aadhaar card.",Identity Theft,Section 66C
+C0575,"An unauthorized person accessed my organization's ERP system and changed vendor payment details.",Computer Related Offences,Section 66
+C0576,"A scammer pretending to be a bank officer requested the OTP to reverse a failed transaction.",OTP Fraud,Section 66D
+C0577,"A fake Google Pay customer care executive guided me to approve a payment request instead of receiving money.",UPI Fraud,Section 66D
+C0578,"Someone secretly shared my personal photographs in public online groups without my consent.",Privacy Violation,Section 66E
+C0579,"A caller claiming to be from the fraud department of my bank convinced me to reveal confidential account information.",Fake Bank Call,Section 66D
+C0580,"A fake courier tracking message asked me to pay customs charges before parcel delivery.",Fake Customer Care Scam,Section 66D
+C0581,"An SMS about updating electricity bill details redirected me to a phishing website.",Phishing Scam,Section 66D
+C0582,"My company's database server was compromised and several confidential contracts were stolen.",Unauthorized Access / Hacking,Section 43
+C0583,"A financial services company informed customers that hackers had leaked account information.",Data Breach / Failure to Protect Data,Section 43A
+C0584,"Someone fraudulently used my Aadhaar details to activate a mobile wallet.",Identity Theft,Section 66C
+C0585,"My Microsoft Office 365 account was accessed from another country and confidential files were downloaded.",Computer Related Offences,Section 66
+C0586,"A fake rewards redemption call convinced me to share the OTP sent by my bank.",OTP Fraud,Section 66D
+C0587,"A buyer on OLX claimed to transfer payment but instead sent a fraudulent collect request.",UPI Fraud,Section 66D
+C0588,"My private travel photographs stored online were leaked publicly.",Privacy Violation,Section 66E
+C0589,"A caller claiming to be my relationship manager requested internet banking credentials for security verification.",Fake Bank Call,Section 66D
+C0590,"A fake Myntra support executive asked me to install AnyDesk to receive a refund.",Fake Customer Care Scam,Section 66D
+C0591,"An email pretending to be from my employer requested that I log into a fake employee portal.",Phishing Scam,Section 66D
+C0592,"A hacker gained access to my workstation through an infected USB drive and copied sensitive files.",Unauthorized Access / Hacking,Section 43
+C0593,"A company's poorly secured cloud storage exposed confidential customer invoices.",Data Breach / Failure to Protect Data,Section 43A
+C0594,"Someone obtained a credit line using my stolen identity documents.",Identity Theft,Section 66C
+C0595,"Hackers logged into my business management software and modified financial records.",Computer Related Offences,Section 66
+C0596,"A fake KYC verification executive requested the OTP sent to my registered mobile number.",OTP Fraud,Section 66D
+C0597,"A scammer pretending to send advance payment for my furniture instead debited my UPI account.",UPI Fraud,Section 66D
+C0598,"Someone downloaded confidential family photographs from my cloud account and circulated them online.",Privacy Violation,Section 66E
+C0599,"A caller claiming to represent my bank's cyber security team convinced me to transfer money into a secure account.",Fake Bank Call,Section 66D
+C0600,"A fake customer support representative promised to resolve my failed order but collected my debit card details and OTP.",Fake Customer Care Scam,Section 66D
+C0601,"I received a message saying my bank account would be deactivated unless I completed verification through the provided website. After logging in, unauthorized withdrawals were made.",Phishing Scam,Section 66D
+C0602,"Someone claiming to be from Kotak Mahindra Bank requested an OTP to activate my new debit card and later transferred money from my account.",OTP Fraud,Section 66D
+C0603,"An unknown person accessed my office network and copied confidential design files without permission.",Unauthorized Access / Hacking,Section 43
+C0604,"A shopping application informed users that hackers had stolen customer payment details due to poor security controls.",Data Breach / Failure to Protect Data,Section 43A
+C0605,"I discovered that a credit card had been issued using my Aadhaar and PAN information without my consent.",Identity Theft,Section 66C
+C0606,"Hackers logged into my Gmail account and sent phishing emails to all my contacts.",Computer Related Offences,Section 66
+C0607,"A fake customer care representative promised to refund my cancelled order but instead collected my banking credentials.",Fake Customer Care Scam,Section 66D
+C0608,"An SMS claiming my KYC had expired redirected me to a fake banking portal where I entered my details.",KYC Update Scam,Section 66D
+C0609,"Private family photographs stored in my cloud backup were downloaded and shared publicly.",Privacy Violation,Section 66E
+C0610,"A caller claiming to be from the Reserve Bank convinced me to transfer funds into a secure account.",Fake Bank Call,Section 66D
+C0611,"Cybercriminals installed ransomware on my office computer, making all documents inaccessible.",Unauthorized Access / Hacking,Section 43
+C0612,"My insurance provider accidentally exposed customer Aadhaar numbers through an unsecured database.",Data Breach / Failure to Protect Data,Section 43A
+C0613,"Someone used my PAN card to register an online trading account.",Identity Theft,Section 66C
+C0614,"My company's internal email server was hacked and confidential documents were stolen.",Computer Related Offences,Section 66
+C0615,"A fake banking website captured my username and password after I clicked a sponsored advertisement.",Phishing Scam,Section 66D
+C0616,"The caller claimed my credit card reward points would expire and requested the OTP received on my phone.",OTP Fraud,Section 66D
+C0617,"While selling my television online, I unknowingly approved a fraudulent collect request through UPI.",UPI Fraud,Section 66D
+C0618,"Someone uploaded my private vacation photographs to a fake social media profile.",Privacy Violation,Section 66E
+C0619,"A fake bank employee requested my debit card number and CVV to verify suspicious transactions.",Fake Bank Call,Section 66D
+C0620,"A fraudster posing as Flipkart support asked me to install remote desktop software to process my refund.",Fake Customer Care Scam,Section 66D
+C0621,"I received an email pretending to be from the Income Tax Department asking me to verify refund details.",Phishing Scam,Section 66D
+C0622,"Hackers exploited weak passwords and accessed confidential files stored on our office server.",Unauthorized Access / Hacking,Section 43
+C0623,"A travel booking website leaked passport details and contact numbers after a cyberattack.",Data Breach / Failure to Protect Data,Section 43A
+C0624,"Someone fraudulently opened a digital wallet using my Aadhaar details.",Identity Theft,Section 66C
+C0625,"My Office 365 account was compromised and important business emails were deleted.",Computer Related Offences,Section 66
+C0626,"A scammer requested the OTP saying it was needed to reverse a failed ATM transaction.",OTP Fraud,Section 66D
+C0627,"A fake cashback offer on PhonePe tricked me into authorizing a payment request.",UPI Fraud,Section 66D
+C0628,"My confidential wedding photographs stored online were circulated without permission.",Privacy Violation,Section 66E
+C0629,"Someone pretending to be from my bank's fraud department asked me to transfer funds to verify my account.",Fake Bank Call,Section 66D
+C0630,"A fake courier company requested customs charges before releasing my parcel.",Fake Customer Care Scam,Section 66D
+C0631,"A phishing SMS claiming my FASTag account was blocked redirected me to a fake payment portal.",Phishing Scam,Section 66D
+C0632,"An attacker remotely connected to my office desktop after I installed fake software from a website.",Unauthorized Access / Hacking,Section 43
+C0633,"A cloud storage provider accidentally exposed confidential customer contracts online.",Data Breach / Failure to Protect Data,Section 43A
+C0634,"Someone used my identity documents to obtain a consumer loan from an online lender.",Identity Theft,Section 66C
+C0635,"Hackers gained access to my company's accounting software and modified transaction records.",Computer Related Offences,Section 66
+C0636,"A caller pretending to be from SBI requested the OTP to cancel a suspicious payment.",OTP Fraud,Section 66D
+C0637,"A buyer on OLX claimed to send money but instead sent a fake collect request through Google Pay.",UPI Fraud,Section 66D
+C0638,"Private family videos stored in my cloud account were downloaded without authorization.",Privacy Violation,Section 66E
+C0639,"A fake bank manager convinced me that my account required immediate verification over the phone.",Fake Bank Call,Section 66D
+C0640,"Someone claiming to be from Amazon support asked for my card details to process a refund.",Fake Customer Care Scam,Section 66D
+C0641,"A fake telecom recharge website captured my internet banking credentials.",Phishing Scam,Section 66D
+C0642,"Malware installed through an email attachment allowed attackers to copy confidential office files.",Unauthorized Access / Hacking,Section 43
+C0643,"A payment gateway company admitted that customer information was exposed after hackers breached its database.",Data Breach / Failure to Protect Data,Section 43A
+C0644,"My Aadhaar number was misused to activate another mobile connection.",Identity Theft,Section 66C
+C0645,"An unauthorized person logged into my cloud storage account and deleted confidential reports.",Computer Related Offences,Section 66
+C0646,"A fake loan verification executive convinced me to disclose the OTP sent by my bank.",OTP Fraud,Section 66D
+C0647,"A fraudster pretending to purchase my laptop sent a fake payment request that debited my UPI account.",UPI Fraud,Section 66D
+C0648,"Someone copied my private photographs from cloud storage and distributed them through messaging apps.",Privacy Violation,Section 66E
+C0649,"A caller claiming to represent my bank's cyber security team requested confidential banking details for verification.",Fake Bank Call,Section 66D
+C0650,"A fake online shopping support executive convinced me to pay a processing fee before issuing a refund.",Fake Customer Care Scam,Section 66D
+C0651,"A message claimed that my electricity connection would be disconnected unless I paid immediately through the attached link. After entering my banking details, money was withdrawn.",Phishing Scam,Section 66D
+C0652,"A person pretending to be from Bank of Baroda called me regarding suspicious activity and asked me to share the OTP received on my phone.",OTP Fraud,Section 66D
+C0653,"An attacker exploited a weak password and gained access to our company's shared server containing confidential reports.",Unauthorized Access / Hacking,Section 43
+C0654,"An online healthcare portal informed users that patient records had been leaked after a database breach.",Data Breach / Failure to Protect Data,Section 43A
+C0655,"Someone used my Aadhaar and PAN details to register a digital loan account without informing me.",Identity Theft,Section 66C
+C0656,"Hackers accessed my company's cloud-based accounting software and altered payment records.",Computer Related Offences,Section 66
+C0657,"A fake customer care executive asked me to install QuickSupport on my mobile phone to process a refund.",Fake Customer Care Scam,Section 66D
+C0658,"I received an SMS stating that my bank KYC had expired and was redirected to a fake verification page.",KYC Update Scam,Section 66D
+C0659,"Private family videos from my laptop were uploaded to a video-sharing platform without my consent.",Privacy Violation,Section 66E
+C0660,"A fake bank employee convinced me that my account needed verification to prevent it from being frozen.",Fake Bank Call,Section 66D
+C0661,"Cybercriminals accessed my office desktop remotely and copied confidential business proposals.",Unauthorized Access / Hacking,Section 43
+C0662,"A travel booking company exposed customer passport details after hackers breached its servers.",Data Breach / Failure to Protect Data,Section 43A
+C0663,"Someone fraudulently opened a trading account using my PAN card information.",Identity Theft,Section 66C
+C0664,"My email account was compromised and attackers reset passwords for several online services linked to it.",Computer Related Offences,Section 66
+C0665,"A fake income tax refund email redirected me to a cloned government website where my credentials were stolen.",Phishing Scam,Section 66D
+C0666,"A fraudster pretending to verify my debit card requested the OTP sent by the bank.",OTP Fraud,Section 66D
+C0667,"A fake buyer on Facebook Marketplace sent me a fraudulent Google Pay collect request instead of making payment.",UPI Fraud,Section 66D
+C0668,"Someone circulated my personal photographs through multiple messaging groups without permission.",Privacy Violation,Section 66E
+C0669,"A caller claiming to be from Canara Bank requested my internet banking password for account verification.",Fake Bank Call,Section 66D
+C0670,"A scammer pretending to represent an e-commerce company collected my debit card details for a fake refund.",Fake Customer Care Scam,Section 66D
+C0671,"I received an SMS about updating my FASTag account that redirected me to a fake payment website.",Phishing Scam,Section 66D
+C0672,"A hacker infected my office computer with spyware that silently copied confidential files.",Unauthorized Access / Hacking,Section 43
+C0673,"An educational institution informed students that hackers had leaked identity documents stored in its database.",Data Breach / Failure to Protect Data,Section 43A
+C0674,"My identity documents were used without permission to activate an online payment wallet.",Identity Theft,Section 66C
+C0675,"Hackers gained unauthorized access to my company's HR management system and downloaded employee records.",Computer Related Offences,Section 66
+C0676,"A fake rewards redemption executive requested my OTP to credit reward points into my account.",OTP Fraud,Section 66D
+C0677,"While selling a dining table online, I mistakenly approved a fake UPI collect request.",UPI Fraud,Section 66D
+C0678,"Someone accessed my cloud storage and leaked confidential family photographs.",Privacy Violation,Section 66E
+C0679,"A fraudster claiming to be from the bank's fraud monitoring team convinced me to transfer money into a secure account.",Fake Bank Call,Section 66D
+C0680,"A fake courier company asked me to pay customs clearance charges through a suspicious payment gateway.",Fake Customer Care Scam,Section 66D
+C0681,"An email pretending to be from my employer requested that I verify payroll details through a fake login page.",Phishing Scam,Section 66D
+C0682,"An attacker gained administrator access to our office network and deleted confidential documents.",Unauthorized Access / Hacking,Section 43
+C0683,"A financial services company informed customers that personal information had been exposed after a cyberattack.",Data Breach / Failure to Protect Data,Section 43A
+C0684,"Someone used my Aadhaar card to obtain a duplicate SIM card and receive banking OTPs.",Identity Theft,Section 66C
+C0685,"Hackers logged into my CRM software and exported customer contact information.",Computer Related Offences,Section 66
+C0686,"The caller claimed that my credit card insurance required OTP verification before activation.",OTP Fraud,Section 66D
+C0687,"A fake cashback offer convinced me to approve a UPI collect request instead of receiving money.",UPI Fraud,Section 66D
+C0688,"Private wedding photographs stored online were downloaded and circulated without my knowledge.",Privacy Violation,Section 66E
+C0689,"A person pretending to be my relationship manager collected confidential banking details over the phone.",Fake Bank Call,Section 66D
+C0690,"A fake support executive for an online shopping app requested remote access to my phone to process a refund.",Fake Customer Care Scam,Section 66D
+C0691,"A phishing website imitating my mobile banking portal captured my username and password.",Phishing Scam,Section 66D
+C0692,"Someone remotely connected to my office laptop through malware installed from a fake software update.",Unauthorized Access / Hacking,Section 43
+C0693,"A logistics company accidentally exposed shipment records containing customer addresses and phone numbers.",Data Breach / Failure to Protect Data,Section 43A
+C0694,"My PAN details were misused to register a fraudulent business account.",Identity Theft,Section 66C
+C0695,"An unauthorized user logged into my company's project management system and altered project files.",Computer Related Offences,Section 66
+C0696,"A scammer pretending to cancel a failed UPI payment requested the OTP sent by my bank.",OTP Fraud,Section 66D
+C0697,"A fake purchaser sent a QR code claiming I would receive advance payment after scanning it, but my account was debited.",QR Code Scam,Section 66D
+C0698,"Someone accessed my cloud backup and leaked confidential personal photographs online.",Privacy Violation,Section 66E
+C0699,"A caller claiming to be from my bank's cyber security division convinced me to disclose confidential banking information.",Fake Bank Call,Section 66D
+C0700,"A fake online shopping support representative collected my banking credentials while promising to refund a cancelled order.",Fake Customer Care Scam,Section 66D
+C0701,"I invested money in a cryptocurrency website that promised guaranteed returns, but after depositing the amount the platform disappeared and I could no longer withdraw my funds.",Computer Related Offences,Section 66
+C0702,"A Telegram group convinced me to invest in Bitcoin through a fake exchange that blocked my account after I transferred money.",Computer Related Offences,Section 66
+C0703,"A fake crypto trading application showed increasing profits but demanded additional payments before allowing withdrawals.",Computer Related Offences,Section 66
+C0704,"Someone impersonating a cryptocurrency expert persuaded me to invest in a fraudulent digital token that became inaccessible.",Computer Related Offences,Section 66
+C0705,"I received messages promising double returns on Ethereum investments, but the wallet address stopped responding after payment.",Computer Related Offences,Section 66
+C0706,"I was offered a work-from-home job that required a registration fee. After paying the amount, the recruiter disappeared.",Fake Job Scam,Section 66D
+C0707,"A fake multinational company issued an appointment letter and demanded money for document verification.",Fake Job Scam,Section 66D
+C0708,"An online recruiter asked me to pay for training before joining the company, but no job was provided.",Fake Job Scam,Section 66D
+C0709,"I received an email offering a government job after paying a processing fee, which turned out to be fraudulent.",Fake Job Scam,Section 66D
+C0710,"A fake overseas employment agency collected visa processing charges and stopped responding afterward.",Fake Job Scam,Section 66D
+C0711,"My mobile network suddenly stopped working, and later I discovered that a duplicate SIM card had been issued using my identity.",Identity Theft,Section 66C
+C0712,"Fraudsters performed a SIM swap and intercepted banking OTPs to transfer money from my account.",Identity Theft,Section 66C
+C0713,"Someone obtained a replacement SIM card in my name and accessed my banking applications.",Identity Theft,Section 66C
+C0714,"After my phone lost network connectivity, unauthorized online transactions were made using intercepted OTPs.",Identity Theft,Section 66C
+C0715,"My mobile operator confirmed that another SIM had been activated using my Aadhaar details without permission.",Identity Theft,Section 66C
+C0716,"Someone created a fake Instagram profile using my photographs and contacted my friends asking for money.",Privacy Violation,Section 66E
+C0717,"A fake Facebook account impersonated me and posted misleading information.",Privacy Violation,Section 66E
+C0718,"Fraudsters copied my LinkedIn profile and offered fake jobs to job seekers.",Privacy Violation,Section 66E
+C0719,"My photographs were stolen from social media and used to create fake matrimonial profiles.",Privacy Violation,Section 66E
+C0720,"Someone impersonated me on WhatsApp and requested emergency financial help from my relatives.",Identity Theft,Section 66C
+C0721,"I invested in an online stock trading platform that displayed fake profits but refused withdrawals.",Computer Related Offences,Section 66
+C0722,"A person claiming to be a financial advisor persuaded me to invest in fake IPO shares.",Computer Related Offences,Section 66
+C0723,"An investment application promised guaranteed monthly returns but disappeared after collecting deposits.",Computer Related Offences,Section 66
+C0724,"I transferred money into a trading account recommended through social media, but the website was fraudulent.",Computer Related Offences,Section 66
+C0725,"A fake mutual fund advisor convinced me to transfer investment funds into a personal account.",Computer Related Offences,Section 66
+C0726,"A person I met on a dating application gained my trust over several weeks before requesting money for an emergency.",Fake Social Engineering Scam,Section 66D
+C0727,"Someone pretending to be a foreign doctor convinced me to pay customs charges to receive expensive gifts.",Fake Social Engineering Scam,Section 66D
+C0728,"A fraudster claimed to be stranded abroad and repeatedly requested financial assistance.",Fake Social Engineering Scam,Section 66D
+C0729,"After building an online relationship, the individual persuaded me to invest in a fake cryptocurrency platform.",Fake Social Engineering Scam,Section 66D
+C0730,"A fake romantic partner manipulated me into sending money through multiple online transfers.",Fake Social Engineering Scam,Section 66D
+C0731,"A caller claiming to represent Microsoft informed me that my laptop was infected and requested remote access.",Fake Tech Support Scam,Section 66D
+C0732,"Someone pretending to be Apple Support convinced me to install remote desktop software.",Fake Tech Support Scam,Section 66D
+C0733,"A fake antivirus support executive requested payment for removing nonexistent malware.",Fake Tech Support Scam,Section 66D
+C0734,"I was shown a fake virus warning on my browser and called the displayed support number, where I was scammed.",Fake Tech Support Scam,Section 66D
+C0735,"A scammer remotely accessed my computer while pretending to fix software issues.",Fake Tech Support Scam,Section 66D
+C0736,"I paid an advance deposit for a rental apartment advertised online, but the property owner never existed.",Fake Rental Scam,Section 66D
+C0737,"A fake landlord collected booking money for a flat that was already occupied.",Fake Rental Scam,Section 66D
+C0738,"An online property advertisement used stolen photographs to deceive tenants into paying advance rent.",Fake Rental Scam,Section 66D
+C0739,"I transferred a security deposit for a rental house before discovering the listing was fake.",Fake Rental Scam,Section 66D
+C0740,"A broker demanded token money for a rental property that was never available.",Fake Rental Scam,Section 66D
+C0741,"Hackers compromised my cryptocurrency wallet by stealing the private recovery phrase.",Computer Related Offences,Section 66
+C0742,"Someone gained unauthorized access to my digital wallet and transferred all crypto assets.",Unauthorized Access / Hacking,Section 43
+C0743,"A fake NFT marketplace collected payments but never delivered the purchased digital artwork.",Computer Related Offences,Section 66
+C0744,"Fraudsters tricked me into signing a malicious blockchain transaction that emptied my wallet.",Computer Related Offences,Section 66
+C0745,"A phishing website imitating a crypto exchange captured my wallet recovery phrase.",Phishing Scam,Section 66D
+C0746,"Someone pretending to be an income tax officer demanded immediate payment to avoid legal action.",Fake Government Official Scam,Section 66D
+C0747,"A fake police officer threatened legal proceedings unless I paid a verification fee online.",Fake Government Official Scam,Section 66D
+C0748,"I received a call claiming my Aadhaar would be suspended unless I completed identity verification.",Fake Government Official Scam,Section 66D
+C0749,"A fraudster impersonated an RBI official and collected confidential banking information.",Fake Government Official Scam,Section 66D
+C0750,"Someone claiming to represent the Cyber Crime Department requested remote access to my mobile phone during an investigation.",Fake Government Official Scam,Section 66D
