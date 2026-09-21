@@ -29,8 +29,3 @@ npm run dev
 
 The frontend usually runs on `http://localhost:5173`.
 
-## Notes
-
-- The backend expects model artifacts such as `model.pkl`, `vectorizer.pkl`, and `label_encoder.pkl` in the `Backend` directory.
-- The app supports image and PDF uploads and extracts text before classification.
-- CORS is enabled for frontend-to-backend communication.
