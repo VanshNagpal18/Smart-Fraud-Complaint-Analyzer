@@ -1,6 +1,6 @@
 # Smart-Fraud-Complaint-Analyzer
 
-This repository contains a full-stack fraud complaint analyzer built to process uploaded complaint documents, extract information, and classify incidents using a trained machine learning pipeline.
+This is a full-stack fraud complaint analyzer built to process uploaded complaint documents, extract information, and classify incidents using a trained machine learning pipeline.
 
 ## Project structure
 
